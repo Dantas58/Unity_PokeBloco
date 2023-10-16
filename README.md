@@ -7,5 +7,5 @@
 * Pokemon and Move creation in Unity
 * Basic Battle System and animations
 * Automatic scene transition to Battle
-* Custom typing and their weaknesses
+* Custom typing and weaknesses
 
